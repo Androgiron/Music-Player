@@ -16,7 +16,7 @@ const songs = ['01 Red','02 Fallen Angel',
 '06 Starless'];
 
 //Keep Track 
-let songIndex = 5;
+let songIndex = 0;
 //Previous Song
 
 function prevSong(){
